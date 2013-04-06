@@ -1,0 +1,34 @@
+Request URL:http://www.163.ca/dz163/forum.php?mod=post&action=reply&fid=90&tid=147978&extra=page%3D1&replysubmit=yes&infloat=yes&handlekey=fastpost&inajax=1
+Request Method:POST
+Status Code:200 OK
+
+Request Headersview parsed
+POST /dz163/forum.php?mod=post&action=reply&fid=90&tid=147978&extra=page%3D1&replysubmit=yes&infloat=yes&handlekey=fastpost&inajax=1 HTTP/1.1
+Host: www.163.ca
+Connection: keep-alive
+Content-Length: 72
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Origin: http://www.163.ca
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.43 Safari/537.31
+Content-Type: application/x-www-form-urlencoded
+Referer: http://www.163.ca/dz163/forum.php?mod=viewthread&tid=147978&extra=page%3D1
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: D0Hz_2132_saltkey=757Tw5gD; D0Hz_2132_lastvisit=1365223153; D0Hz_2132_visitedfid=90; D0Hz_2132_sendmail=1; D0Hz_2132_forum_lastvisit=D_90_1365226826; D0Hz_2132_auth=fcd9broB4cEL0FestBDEN%2Bz44LQujkXn1FtUZwkl6dr7Py74ANfC3oVzhhmFAzusREmEdtSrU58KnK%2FXnhbctXGNwg; D0Hz_2132_ulastactivity=c4e6iEnhkYGyHsET5BspgDERvlkUk%2BT3A6K3wIv1bRTPhBf%2FzqAr; D0Hz_2132_sid=3FPdpW; D0Hz_2132_lastact=1365226867%09home.php%09spacecp; D0Hz_2132_smile=1D1
+Query String Parametersview sourceview URL encoded
+mod:post
+action:reply
+fid:90
+tid:147978
+extra:page=1
+replysubmit:yes
+infloat:yes
+handlekey:fastpost
+inajax:1
+Form Dataview sourceview URL encoded
+message:have a good night
+posttime:1365226865
+formhash:880c79dd
+subject:
